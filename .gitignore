@@ -131,3 +131,4 @@ dmypy.json
 artifacts
 logs
 catboost_info
+notebook/catboost_info
