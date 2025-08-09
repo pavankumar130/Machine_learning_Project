@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-artifacts
+# artifacts
 logs
 catboost_info
 notebook/catboost_info
